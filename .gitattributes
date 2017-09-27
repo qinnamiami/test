@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+$ cd my-paper
+$ git remote add overleaf https://git.overleaf.com/11292412hrjtkjqyfbyf
